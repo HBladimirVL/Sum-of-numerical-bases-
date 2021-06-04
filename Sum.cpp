@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-// BY HUMBERTO BLADIMIR VASQUEZ LOPEZ
+// BY BLADIMIR LOPEZ
 
 long suma_Base(int base,int e);
 
